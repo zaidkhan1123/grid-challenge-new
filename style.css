@@ -1,0 +1,119 @@
+
+
+
+
+.container{
+    background-color: rgb(216, 230, 230);
+    
+    height: auto;
+    width: auto;
+
+}
+.blue{
+    
+    background-color:  hsl(263, 55%, 52%);
+    border-radius: 8px;
+    height: 19rem;
+    width: 59%;
+    font-size: 0.8rem;
+
+}
+.blue1{
+   
+   background-color: hsl(219, 29%, 14%);;
+    border-radius: 8px;
+    height: 19rem;
+    width: 59%;
+    font-size: 0.8rem;
+
+}
+/* peoples */
+.daniel{
+    width: 8%;
+    
+}
+.kira-whittle{
+    width: 17%;
+}
+.jonathan{
+    width:16% ;
+}
+
+
+.grey{
+    
+    border-radius: 8px;
+    height: 19rem;
+    width: 28%;
+    background-color: hsl(217, 19%, 35%);
+    font-size: 0.8rem;
+   
+}
+.grey1{
+    
+    border-radius: 8px;
+    height: 19rem;
+    width: 28%;
+    background-color: rgb(255, 255, 255);
+    font-size: 0.8rem;
+   
+}
+
+
+.white1{
+    
+    height: 39rem;
+    width: 20%;
+    font-size: 0.8rem;
+    margin-left: -5%;
+    border-radius: 8px;
+    background-color: aliceblue;
+}
+.important-row{
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 44px;
+}
+
+
+@media (max-width:994px){
+.blue{
+width: 100%;
+height: auto;
+}
+
+}
+
+@media (max-width:994px){
+    .blue1{
+    width: 100%;
+    height: auto;
+    }
+    
+    }
+    
+@media (max-width:994px){
+    .grey{
+    width: 100%;
+    height: auto;
+    margin-left: 0px;
+    }
+    
+    }
+    
+@media (max-width:994px){
+    .grey1{
+    width: 100%;
+    height: auto;
+    margin-left: 0%;
+    }
+    
+    }
+    
+@media (max-width:994px){
+    .white1{
+    width: 100%;
+    margin-left: 0%;
+    }
+    
+    }
